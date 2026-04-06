@@ -1,0 +1,13 @@
+.env
+node_modules/
+dist/
+.trigger/
+
+# Internal docs (not for GitHub)
+CLAUDE.md
+trigger-ref.md
+prompts.txt
+
+# Data exports and local config
+*.csv
+.mcp.json
