@@ -1,7 +1,25 @@
-
 # AI Workflow Automation Engine
 
 Build intelligent automation systems powered by AI.
+
+---
+
+## Screenshots
+
+### ClickUp - Agile Leads
+![Agile Leads](assets/screenshots/ClickupAgriLeads.png)
+
+### ClickUp - Dental Leads
+![Dental Leads](assets/screenshots/ClickupDentalLeads.png)
+
+### Trigger.dev - Both Workflows
+![Both Workflows](assets/screenshots/Trigger.DevBothWorkflows.png)
+
+### Trigger.dev - All Processes
+![All Processes](assets/screenshots/Trigger.DevAllProcesses.png)
+
+### Trigger.dev - Dental Lead Generation
+![Dental Generation](assets/screenshots/Trigger.DevDentalLeadGeneration.png)
 
 ---
 
